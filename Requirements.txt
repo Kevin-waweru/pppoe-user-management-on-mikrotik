@@ -1,0 +1,6 @@
+Python 3.9
+Pyqt5
+Mysql
+Librouteros
+Vonage sms API
+Mikrotik router
