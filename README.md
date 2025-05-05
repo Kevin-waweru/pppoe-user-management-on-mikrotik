@@ -1,2 +1,1 @@
-# network-management
-pppoe user management for mikrotik using pyqt5
+pppoe user management for mikrotik using pyqt5. the application can be used to add,remove,disconnect reconnect users. It also allows creation of new bandwidth packages. Using vonage the application sends sms alerts to the admin incase the main connection is down and can be used to send sms notifications to the clients.
